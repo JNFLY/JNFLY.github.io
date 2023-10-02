@@ -8,6 +8,3 @@ date: 2021-01-01
 location: "Shenzhen, China"
 ---
 Tutoring lower-division math courses including Mathematical Analysis and Linear Algebra
-
-Heading 1
-======
