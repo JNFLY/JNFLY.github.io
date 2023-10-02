@@ -19,7 +19,11 @@ Heading 2
 Heading 3
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ======
+=======
+======
+>>>>>>> parent of 770edd0 (Multiple change)
 =======
 ======
 >>>>>>> parent of 770edd0 (Multiple change)
