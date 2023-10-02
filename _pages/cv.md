@@ -18,23 +18,20 @@ Education
 Study experience
 ======
 
-* 2022 Spring & Fall: International Exchange Program
-  * @ UC Berkeley
+* 2022 Spring & Fall: International Exchange Program @ UC Berkeley
   * Core courses: Numerical Solutions of PDEs, Numerical Analysis II...
 
-* 2022 Summer: Summer Research
-  * @ UC Santa Cruz
+* 2022 Summer: Summer Research @ UC Santa Cruz
   * Topics on machine learning data-driven methods for optimal control.
   * Supervisor: Professor Qi Gong
 
 Skills
 ======
-* Programming
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Skills:
+  * advanced: Python, MATLAB, LaTeX
+  * basic: Julia, Mathematica, Java, R
+* Sports: Tennis, Kung fu  
+* Arts & Music: Clarinet, Recitation
 
 Publications
 ======
@@ -53,7 +50,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
