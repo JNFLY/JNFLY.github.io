@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, Southern University of Science and Technology, China, 2019-2023
-* Ph.D in Electrical & Computer Engineering, University of California,
-Santa Barbara, the United State, 2023-
+* B.S. in Applied Mathematics @ Southern University of Science and Technology, China, 2019-2023
 
-Work experience
+* Ph.D in Electrical & Computer Engineering, @ UC Santa Barbara, US, 2023-
+
+Study experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 Spring & Fall: International Exchange Program
+  * @ UC Berkeley
+  * Core courses: Numerical Solutions of PDEs, Numerical Analysis II...
+
+* 2022 Summer: Summer Research
+  * @ UC Santa Cruz
+  * Topics on machine learning data-driven methods for optimal control.
+  * Supervisor: Professor Qi Gong
 
 Skills
 ======
-* Skill 1
+* Programming
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
