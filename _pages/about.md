@@ -13,6 +13,7 @@ Education
 * B.S. in Applied Mathematics @ Southern University of Science and Technology, China, 2019-2023
 
 * Ph.D in Electrical & Computer Engineering, @ UC Santa Barbara, United States, 2023-
+  * Supervisor: Professor Mahnoosh Alizadeh
 
 Study experience
 ======
