@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Nanfei Jiang"
   avatar           : "标准证件照片.JPG"
-  bio              : "Ph.D in University of California, Santa Barbara"
+  bio              : "Ph.D in UC Santa Barbara"
   location         : "3106 Harold Frank Hall, UCSB"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nanfei2001"
   google_plus      :
   keybase          :
   instagram        :
