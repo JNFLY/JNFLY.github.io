@@ -14,7 +14,7 @@ Education
 
 * Ph.D in Electrical & Computer Engineering, @ UC Santa Barbara, United States, 2023-
   * Supervisor: Professor Mahnoosh Alizadeh
-
+  
 Study experience
 ======
 
