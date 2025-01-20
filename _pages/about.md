@@ -25,14 +25,6 @@ Study experience
   * Topics on machine learning data-driven methods for optimal control.
   * Supervisor: Prof. Qi Gong
 
-Skills
-======
-* Programming Skills:
-  * advanced: Python, MATLAB, LaTeX
-  * basic: Julia, Mathematica, Java, R
-* Sports: Tennis, Kung fu  
-* Arts & Music: Clarinet, Recitation
-
 Publications
 ======
   * N. Jiang, S. Hutchinson and M. Alizadeh, "Online Nonstochastic Control with Convex Safety Constraints” in American Control Conference (ACC), 2025.
@@ -42,3 +34,12 @@ Teaching
 ======
   * ECE130B Signal & Systems, WI2024, SP2024, WI2025
   * ECE10A Foundations of Analog and Digital Circuits & Systems, FA2024
+
+Skills
+======
+* Sports: Tennis (Intermediate)
+* Arts & Music: Clarinet, Music Composing (Beginner)
+* Programming Skills:
+  * advanced: Python, MATLAB, LaTeX
+  * basic: Julia, Mathematica, Java, R
+
